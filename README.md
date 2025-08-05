@@ -23,6 +23,6 @@
 
 ### ⚙️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,compass,dbeaver,figma" />
 </p>
 
