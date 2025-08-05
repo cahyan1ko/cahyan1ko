@@ -8,7 +8,7 @@
 ### 🧰 Tech Stack
 ### 🧠 Language
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,scss,dart" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,scss,dart&perline=3" />
 </p>
 
 ### 🧱 Framework
