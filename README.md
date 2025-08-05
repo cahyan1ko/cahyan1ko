@@ -6,22 +6,22 @@
 ---
 
 ### 🧰 Tech Stack
-### 🧠 Language
+#### 🧠 Language
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,js,html,css,scss,dart&perline=3" />
 </p>
 
-### 🧱 Framework
+#### 🧱 Framework
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,flask,vue,express,flutter&perline=3" />
 </p>
 
-### 🗄️ Database
+#### 🗄️ Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&perline=3" />
 </p>
 
-### ⚙️ Tools
+#### ⚙️ Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,figma&perline=3" />
 </p>
