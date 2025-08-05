@@ -10,8 +10,24 @@
 ---
 
 ### 🧰 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,flask,js,vue,html,css,mysql,git,github" />
+### 🧠 Bahasa Pemrograman
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,js" />
+</p>
+
+### 🧱 Framework
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,flask,vue" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### ⚙️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
 </p>
 
 ---
