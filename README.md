@@ -12,12 +12,12 @@
 ### 🧰 Tech Stack
 ### 🧠 Language
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,js" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,vue,html,css,scss,dart" />
 </p>
 
 ### 🧱 Framework
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,flask,vue" />
+  <img src="https://skillicons.dev/icons?i=laravel,flask,vue,express,flutter" />
 </p>
 
 ### 🗄️ Database
@@ -27,7 +27,7 @@
 
 ### ⚙️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,asana,figma" />
 </p>
 
 ---
