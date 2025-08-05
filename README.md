@@ -13,16 +13,16 @@
 
 ### 🧱 Framework
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,flask,vue,express,flutter" />
+  <img src="https://skillicons.dev/icons?i=laravel,flask,vue,express,flutter&perline=3" />
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&perline=3" />
 </p>
 
 ### ⚙️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,compass,dbeaver,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma&perline=3" />
 </p>
 
