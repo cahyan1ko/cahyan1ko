@@ -10,7 +10,7 @@
 ---
 
 ### 🧰 Tech Stack
-### 🧠 Bahasa Pemrograman
+### 🧠 Language
 <p>
   <img src="https://skillicons.dev/icons?i=python,php,js" />
 </p>
@@ -22,7 +22,7 @@
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgre" />
 </p>
 
 ### ⚙️ Tools
