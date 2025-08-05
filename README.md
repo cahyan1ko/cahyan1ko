@@ -12,7 +12,7 @@
 ### 🧰 Tech Stack
 ### 🧠 Language
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,js,vue,html,css,scss,dart" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,scss,dart" />
 </p>
 
 ### 🧱 Framework
@@ -27,7 +27,8 @@
 
 ### ⚙️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,asana,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
+  <img src="https://cdn.worldvectorlogo.com/logos/asana-2.svg" alt="Asana" width="40" height="40" />
 </p>
 
 ---
