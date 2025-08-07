@@ -36,8 +36,10 @@ cahyaaniko
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,cassandra" />
 </p>
 
+<h2 align="center">🧠 My Most Used Languages</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahyan1ko&layout=compact&theme=tokyonight" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahyan1ko&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 
