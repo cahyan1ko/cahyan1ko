@@ -25,7 +25,7 @@ cahyaaniko
 ### 🧰 Tech Stack
 #### 🧠 Language
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,php,python,dart,scss,css" />
+  <img src="https://skillicons.dev/icons?i=html,scss,php,python,dart,js,css" />
 </p>
 
 #### 🧱 Framework
