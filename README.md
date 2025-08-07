@@ -5,9 +5,9 @@
 </p>
 
 
-<h3 align="center">main github biar keren</h3>
+<h3 align="center">main github biar keren kek lo</h3>
 
-<p align="left">hanya akun arsip, ga ada apa apa disini</strong></p>
+<p align="center">cuman akun arsip, ga ada apa apa disini</strong></p>
 
 ---
 ### kepoin dong
