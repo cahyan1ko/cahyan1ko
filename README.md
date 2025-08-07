@@ -40,6 +40,6 @@ cahyaaniko
 
 #### ⚙️ Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma&perline=3" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
 </p>
 
