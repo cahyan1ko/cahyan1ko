@@ -21,8 +21,8 @@ cahyaaniko
 ```
 
 ---
+<h3 align="center">tech stack orang gabut</h3>
 
-### 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,scss,php,python,dart,js,css" />
 </p>
