@@ -1,6 +1,6 @@
 <p align="center">
   <a style="pointer-events: none;">
-    <img src="https://raw.githubusercontent.com/cahyan1ko/cahyan1ko/main/assets/Cahyaaniko.png" alt="Cahyaaniko" width="400" />
+    <img src="https://raw.githubusercontent.com/cahyan1ko/cahyan1ko/main/assets/Cahyaaniko1.png" alt="Cahyaaniko" width="400" />
   </a>
 </p>
 
