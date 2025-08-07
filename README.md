@@ -23,22 +23,15 @@ cahyaaniko
 ---
 
 ### 🧰 Tech Stack
-#### 🧠 Language
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,scss,php,python,dart,js,css" />
 </p>
-
-#### 🧱 Framework
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,flask,vue,express,flutter" />
 </p>
-
-#### ⚙️ Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
 </p>
-
-#### 🗄️ Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
