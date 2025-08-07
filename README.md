@@ -33,7 +33,7 @@ cahyaaniko
   <img src="https://skillicons.dev/icons?i=vscode,git,gitlab,github,figma" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,oracle" />
 </p>
 
 ---
