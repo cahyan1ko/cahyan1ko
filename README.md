@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/hallo-graffiti.png" alt="HALLO" width="400"/>
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/Cahyaaniko.png" alt="HALLO" width="400"/>
 </p>
 <h3 align="center">main github biar keren</h3>
 
