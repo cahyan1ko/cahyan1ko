@@ -4,11 +4,12 @@
 <p align="left">hanya akun arsip, ga ada apa apa disini</strong></p>
 
 ---
-<h3 align="center">kepoin dong</h3>
+### kepoin dong
 ```bash
 npm install -g cahyaaniko
 ```
-<h4>jangan</h4>
+
+### jangan lupa jalanin
 ```bash
 cahyaaniko
 ```
