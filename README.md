@@ -30,7 +30,7 @@ cahyaaniko
   <img src="https://skillicons.dev/icons?i=laravel,flask,vue,react,express,flutter" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,gitlab,github,figma" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
