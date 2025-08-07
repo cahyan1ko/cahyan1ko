@@ -33,13 +33,15 @@ cahyaaniko
   <img src="https://skillicons.dev/icons?i=laravel,flask,vue,express,flutter" />
 </p>
 
+#### ⚙️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
+</p>
+
 #### 🗄️ Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
 
-#### ⚙️ Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
-</p>
+
 
