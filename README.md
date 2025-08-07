@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/Cahyaaniko.png" alt="HALLO" width="400"/>
+  <img src="https://raw.githubusercontent.com/cahyan1ko/cahyan1ko/main/assets/Cahyaaniko.png" alt="Cahyaaniko" width="400"/>
 </p>
+
 <h3 align="center">main github biar keren</h3>
 
 <p align="left">hanya akun arsip, ga ada apa apa disini</strong></p>
