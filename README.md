@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cahyan1ko/cahyan1ko/main/assets/Cahyaaniko.png" alt="Cahyaaniko" width="400"/>
+  <a style="pointer-events: none;">
+    <img src="https://raw.githubusercontent.com/cahyan1ko/cahyan1ko/main/assets/Cahyaaniko.png" alt="Cahyaaniko" width="400" />
+  </a>
 </p>
+
 
 <h3 align="center">main github biar keren</h3>
 
