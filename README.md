@@ -4,6 +4,14 @@
 <p align="left">hanya akun arsip, ga ada apa apa disini</strong></p>
 
 ---
+```bash
+npm install -g cahyaaniko
+```
+```bash
+cahyaaniko
+```
+
+---
 
 ### 🧰 Tech Stack
 #### 🧠 Language
