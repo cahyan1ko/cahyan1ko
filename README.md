@@ -8,7 +8,7 @@
 ```bash
 npm install -g cahyaaniko
 ```
-<h4 align="center">jangan</h3>
+<h4>jangan</h4>
 ```bash
 cahyaaniko
 ```
