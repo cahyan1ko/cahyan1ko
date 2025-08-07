@@ -4,9 +4,11 @@
 <p align="left">hanya akun arsip, ga ada apa apa disini</strong></p>
 
 ---
+<h3 align="center">kepoin dong</h3>
 ```bash
 npm install -g cahyaaniko
 ```
+<h4 align="center">jangan</h3>
 ```bash
 cahyaaniko
 ```
