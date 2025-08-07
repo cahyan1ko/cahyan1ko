@@ -1,4 +1,6 @@
-<h1 align="center">HALLO</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/hallo-graffiti.png" alt="HALLO" width="400"/>
+</p>
 <h3 align="center">main github biar keren</h3>
 
 <p align="left">hanya akun arsip, ga ada apa apa disini</strong></p>
